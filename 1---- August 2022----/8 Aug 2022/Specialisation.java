@@ -1,0 +1,5 @@
+enum Specialisation{
+
+  CARDIOLOGIST,NEUROLOGIST,ENT,EYE,DERMATOLOGIST;
+
+}
