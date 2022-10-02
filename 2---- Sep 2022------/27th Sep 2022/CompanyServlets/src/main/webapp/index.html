@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Company Details</h1>
+<br><br>
+<a href="show">Show Details</a>
+	<br>
+	<br>
+<form action="company" method="post">
+Company Name: &nbsp;<input type="text" id="name" name="name">
+		&nbsp;&nbsp;<br><br>
+Founder: &nbsp;<input type="text" id="founder"
+			name="founder"> &nbsp;&nbsp;<br><br>
+		<p>
+Since: &nbsp;<input type="text" id="since" name="since">
+			&nbsp;
+		</p>
+		<br>
+		<fieldset>
+Employees: &nbsp;<select name="employee" id="employee">
+				<option>--Select--</option>
+				<option>Greaterthan 300</option>
+				<option>Lessthan 200</option>
+				<option>Lessthan 100</option>
+			</select>
+		</fieldset>
+		<br>
+		<fieldset>
+			Address: &nbsp;
+			<textarea rows="15" cols="20" name="address"></textarea>
+			<br>
+		</fieldset>
+		<br>
+		<fieldset>
+			Business: &nbsp;<select name="business" id="business">
+				<option>--Select--</option>
+				<option>Banking</option>
+				<option>Travels</option>
+				<option>Real Estate</option>
+				<option>Marketing</option>
+			</select>
+		</fieldset>
+		<br> <input type="submit" value="Submit">
+</form>
+</body>
+</html>
