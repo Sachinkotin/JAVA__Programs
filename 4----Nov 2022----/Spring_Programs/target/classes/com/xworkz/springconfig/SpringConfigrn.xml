@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"> <!-- bean definitions here -->
+
+<bean class="com.xworkz.beans.SweetBun" name="bun"><property name="price" value="50"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun1"><property name="price" value="25"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun2"><property name="price" value="225"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun3"><property name="price" value="21"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun4"><property name="price" value="140"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun5"><property name="price" value="74"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun6"><property name="price" value="30"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun7"><property name="price" value="56"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun8"><property name="price" value="85"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun9"><property name="price" value="96"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun10"><property name="price" value="41"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun11"><property name="price" value="25"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun12"><property name="price" value="225"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun13"><property name="price" value="21"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun14"><property name="price" value="140"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun15"><property name="price" value="74"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun16"><property name="price" value="30"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun17"><property name="price" value="56"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun18"><property name="price" value="85"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun19"><property name="price" value="96"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun20"><property name="price" value="41"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun21"><property name="price" value="25"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun22"><property name="price" value="225"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun23"><property name="price" value="21"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun24"><property name="price" value="140"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun25"><property name="price" value="74"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun26"><property name="price" value="30"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun27"><property name="price" value="56"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun28"><property name="price" value="85"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun29"><property name="price" value="96"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun30"><property name="price" value="41"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun31"><property name="price" value="25"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun32"><property name="price" value="225"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun33"><property name="price" value="21"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun34"><property name="price" value="140"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun35"><property name="price" value="74"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun36"><property name="price" value="30"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun37"><property name="price" value="56"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun38"><property name="price" value="85"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun39"><property name="price" value="96"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun40"><property name="price" value="41"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun41"><property name="price" value="25"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun42"><property name="price" value="225"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun43"><property name="price" value="21"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun44"><property name="price" value="140"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun45"><property name="price" value="74"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun46"><property name="price" value="30"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun47"><property name="price" value="56"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun48"><property name="price" value="85"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun49"><property name="price" value="96"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun50"><property name="price" value="41"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun51"><property name="price" value="25"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun52"><property name="price" value="225"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun53"><property name="price" value="21"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun54"><property name="price" value="140"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun55"><property name="price" value="74"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun56"><property name="price" value="30"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun57"><property name="price" value="56"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun58"><property name="price" value="85"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun59"><property name="price" value="96"></property></bean>
+<bean class="com.xworkz.beans.SweetBun" name="bun60"><property name="price" value="41"></property></bean>
+
+
+
+
+
+<bean class="com.xworkz.beans.Bike" name="bike1"><property name="price" value="85000"></property>
+<property name="brand" value="Hero Honda 2022 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike2"><property name="price" value="70000"></property>
+<property name="brand" value="Splendor plus 2019 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike3"><property name="price" value="55000"></property>
+<property name="brand" value="Luna 2000 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike4"><property name="price" value="35000"></property>
+<property name="brand" value="TVS 2016 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike5"><property name="price" value="25000"></property>
+<property name="brand" value="TVS Victor 2018 model "></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike6"><property name="price" value="185000"></property>
+<property name="brand" value="Royal Enfield 2000 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike7"><property name="price" value="95000"></property>
+<property name="brand" value="Jawa 2006 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike8"><property name="price" value="78000"></property>
+<property name="brand" value="Platina 2003 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike9"><property name="price" value="52000"></property>
+<property name="brand" value="Bajaj Discover 2010 model "></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike10"><property name="price" value="63000"></property>
+<property name="brand" value="Duke 2015 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike11"><property name="price" value="29000"></property>
+<property name="brand" value="Pulsar 120 -2005 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike12"><property name="price" value="54000"></property>
+<property name="brand" value="Pulsar 150 -2006 model "></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike13"><property name="price" value="96000"></property>
+<property name="brand" value="Pulsar 220 - 2010 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike14"><property name="price" value="87000"></property>
+<property name="brand" value="Boxer 2000 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike15"><property name="price" value="45000"></property>
+<property name="brand" value="Splendor 2000 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike16"><property name="price" value="96000"></property>
+<property name="brand" value="Suzuki 2010 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike17"><property name="price" value="40000"></property>
+<property name="brand" value="Duke 2010 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike18"><property name="price" value="30000"></property>
+<property name="brand" value="Honda Shine 2010"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike19"><property name="price" value="94000"></property>
+<property name="brand" value="Jupiter 2015 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike20"><property name="price" value="36000"></property>
+<property name="brand" value="Fascino 2018 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike21"><property name="price" value="52000"></property>
+<property name="brand" value="Suzuki 2000 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike22"><property name="price" value="39000"></property>
+<property name="brand" value="Hero Honda"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike23"><property name="price" value="47000"></property>
+<property name="brand" value="Fascino 2020 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike24"><property name="price" value="26000"></property>
+<property name="brand" value="Duke 2011 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike25"><property name="price" value="52000"></property>
+<property name="brand" value="Hero Honda"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike26"><property name="price" value="41000"></property>
+<property name="brand" value="Honda Shine 2011"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike27"><property name="price" value="32000"></property>
+<property name="brand" value="Duke 2012 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike28"><property name="price" value="120000"></property>
+<property name="brand" value="Hero Honda"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike29"><property name="price" value="60000"></property>
+<property name="brand" value="Hero Honda"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike30"><property name="price" value="36000"></property>
+<property name="brand" value="Fascino 2017 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike31"><property name="price" value="26000"></property>
+<property name="brand" value="Duke 2013 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike32"><property name="price" value="39000"></property>
+<property name="brand" value="Honda Shine 2012"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike33"><property name="price" value="47000"></property>
+<property name="brand" value="Hero Honda"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike34"><property name="price" value="46000"></property>
+<property name="brand" value="Fascino 2016 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike35"><property name="price" value="29000"></property>
+<property name="brand" value="Duke 2014 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike36"><property name="price" value="99000"></property>
+<property name="brand" value="Honda Shine 2013"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike37"><property name="price" value="55000"></property>
+<property name="brand" value="Bajaj Discover 2009 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike38"><property name="price" value="69000"></property>
+<property name="brand" value="Fascino 2015 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike39"><property name="price" value="74000"></property>
+<property name="brand" value="Hero Honda"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike40"><property name="price" value="21000"></property>
+<property name="brand" value="Duke 2015 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike41"><property name="price" value="64000"></property>
+<property name="brand" value="Hero Honda 2021 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike42"><property name="price" value="52000"></property>
+<property name="brand" value="Honda Shine 2014"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike43"><property name="price" value="32000"></property>
+<property name="brand" value="Hero Honda"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike44"><property name="price" value="96000"></property>
+<property name="brand" value="Hero Honda 2020 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike45"><property name="price" value="45000"></property>
+<property name="brand" value="Bajaj Discover 2017 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike46"><property name="price" value="87000"></property>
+<property name="brand" value="Duke 2016 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike47"><property name="price" value="24000"></property>
+<property name="brand" value="Fascino 2013 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike48"><property name="price" value="82000"></property>
+<property name="brand" value="Hero Honda 2019 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike49"><property name="price" value="61000"></property>
+<property name="brand" value="Honda Shine 2015"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike50"><property name="price" value="52000"></property>
+<property name="brand" value="Duke 2017 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike51"><property name="price" value="41000"></property>
+<property name="brand" value="Bajaj Discover 2011 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike52"><property name="price" value="39000"></property>
+<property name="brand" value="Hero Honda 1995 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike53"><property name="price" value="71000"></property>
+<property name="brand" value="Fascino 2011 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike54"><property name="price" value="36000"></property>
+<property name="brand" value="Duke 2018 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike55"><property name="price" value="85000"></property>
+<property name="brand" value="Honda Shine 2016"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike56"><property name="price" value="55000"></property>
+<property name="brand" value="Hero Honda 2001 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike57"><property name="price" value="96000"></property>
+<property name="brand" value="Hero Honda"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike58"><property name="price" value="39000"></property>
+<property name="brand" value="Fascino 2010 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike59"><property name="price" value="75000"></property>
+<property name="brand" value="Duke 2022 model"></property></bean>
+<bean class="com.xworkz.beans.Bike" name="bike60"><property name="price" value="86000"></property>
+<property name="brand" value="Hero Honda 2016 model"></property></bean>
+
+<bean class="com.xworkz.beans.Hotel" name="hotel1"><property name="name" value="Udupi Krishna hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel2"><property name="name" value="Balaji hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel3"><property name="name" value="Kamat hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel4"><property name="name" value="Gopi hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel5"><property name="name" value="Sharan hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel6"><property name="name" value="Tirupati hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel7"><property name="name" value="Renuka hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel8"><property name="name" value="Sangu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel9"><property name="name" value="Kavita hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel10"><property name="name" value="Amma hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel11"><property name="name" value="Mandya hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel12"><property name="name" value="Kuvempu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel13"><property name="name" value="Dev hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel14"><property name="name" value="Guru hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel15"><property name="name" value="King hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel16"><property name="name" value="A hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel17"><property name="name" value="Chinna hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel18"><property name="name" value="Mallu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel19"><property name="name" value="Savaji hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel20"><property name="name" value="Koli hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel21"><property name="name" value="Kaurava hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel22"><property name="name" value="Milan hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel23"><property name="name" value="Kariya hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel24"><property name="name" value="Ravi hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel25"><property name="name" value="Raju hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel26"><property name="name" value="Manju hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel27"><property name="name" value="Nagesh hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel28"><property name="name" value="Sharath hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel29"><property name="name" value="Shambhu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel30"><property name="name" value="Suhas hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel31"><property name="name" value="Karunadu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel32"><property name="name" value="Appu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel33"><property name="name" value="Raj hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel34"><property name="name" value="Vishnu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel35"><property name="name" value="Kichha hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel36"><property name="name" value="Abhi hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel37"><property name="name" value="Bendre hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel38"><property name="name" value="Banu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel39"><property name="name" value="Praveen hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel40"><property name="name" value="Bharat hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel41"><property name="name" value="Kavana hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel42"><property name="name" value="Kavya hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel43"><property name="name" value="Saneeta hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel44"><property name="name" value="A2 hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel45"><property name="name" value="Mina hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel46"><property name="name" value="Shankar hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel47"><property name="name" value="Joteyali hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel48"><property name="name" value="Same Place hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel49"><property name="name" value="K 2 hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel50"><property name="name" value="BTM hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel51"><property name="name" value="Attibele hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel52"><property name="name" value="Suma hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel53"><property name="name" value="Madhu hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel54"><property name="name" value="Sahana hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel55"><property name="name" value="Achhut hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel56"><property name="name" value="Aryan hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel57"><property name="name" value="Aditya hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel58"><property name="name" value="Nandini hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel59"><property name="name" value="Nidima hotel"></property></bean>
+<bean class="com.xworkz.beans.Hotel" name="hotel60"><property name="name" value="Chandra hotel"></property></bean>
+
+<bean class="com.xworkz.beans.Park" name="park1"><property name="name" value="Brindavan"></property></bean>
+<bean class="com.xworkz.beans.Park" name="park2"><property name="name" value="Balaji "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park3"><property name="name" value="Kamat "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park4"><property name="name" value="Gopi "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park5"><property name="name" value="Sharan "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park6"><property name="name" value="Tirupati "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park7"><property name="name" value="Renuka "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park8"><property name="name" value="Sangu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park9"><property name="name" value="Kavita "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park10"><property name="name" value="Amma "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park11"><property name="name" value="Mandya "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park12"><property name="name" value="Kuvempu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park13"><property name="name" value="Dev "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park14"><property name="name" value="Guru "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park15"><property name="name" value="King "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park16"><property name="name" value="A park"></property></bean>
+<bean class="com.xworkz.beans.Park" name="park17"><property name="name" value="Chinna "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park18"><property name="name" value="Mallu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park19"><property name="name" value="Savaji "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park20"><property name="name" value="Koli "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park21"><property name="name" value="Kaurava "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park22"><property name="name" value="Milan "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park23"><property name="name" value="Kariya "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park24"><property name="name" value="Ravi "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park25"><property name="name" value="Raju "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park26"><property name="name" value="Manju "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park27"><property name="name" value="Nagesh "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park28"><property name="name" value="Sharath "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park29"><property name="name" value="Shambhu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park30"><property name="name" value="Suhas "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park31"><property name="name" value="Karunadu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park32"><property name="name" value="Appu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park33"><property name="name" value="Raj "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park34"><property name="name" value="Vishnu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park35"><property name="name" value="Kichha "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park36"><property name="name" value="Abhi "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park37"><property name="name" value="Bendre "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park38"><property name="name" value="Banu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park39"><property name="name" value="Praveen "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park40"><property name="name" value="Bharat "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park41"><property name="name" value="Kavana "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park42"><property name="name" value="Kavya "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park43"><property name="name" value="Sangeeta "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park44"><property name="name" value="A2 park"></property></bean>
+<bean class="com.xworkz.beans.Park" name="park45"><property name="name" value="Mina "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park46"><property name="name" value="Shankar "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park47"><property name="name" value="Joteyali "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park48"><property name="name" value="Same Place "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park49"><property name="name" value="K 2 "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park50"><property name="name" value="BTM "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park51"><property name="name" value="Attibele "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park52"><property name="name" value="Suma "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park53"><property name="name" value="Madhu "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park54"><property name="name" value="Sahana "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park55"><property name="name" value="Achhut "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park56"><property name="name" value="Aryan "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park57"><property name="name" value="Aditya "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park58"><property name="name" value="Nandini "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park59"><property name="name" value="Nidima "></property></bean>
+<bean class="com.xworkz.beans.Park" name="park60"><property name="name" value="Chandra "></property></bean>
+
+<bean class="com.xworkz.beans.Film" name="film1"><property name="name" value="Brindavan"></property></bean>
+<bean class="com.xworkz.beans.Film" name="film2"><property name="name" value="Gopi "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film3"><property name="name" value="Kiccha "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film4"><property name="name" value="Huccha "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film5"><property name="name" value="Yajamana "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film6"><property name="name" value="Kotigobba "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film7"><property name="name" value="Vishnu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film8"><property name="name" value="Raj "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film9"><property name="name" value="KGF "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film10"><property name="name" value="Habba "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film11"><property name="name" value="Jenu Goodu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film12"><property name="name" value="Bahaddur "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film13"><property name="name" value="Bharjari "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film14"><property name="name" value="Ba nalle Madhuchandrake "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film15"><property name="name" value="Baageerathi "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film16"><property name="name" value="Baadada Hoovu"></property></bean>
+<bean class="com.xworkz.beans.Film" name="film17"><property name="name" value="Baddi Bangaramma "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film18"><property name="name" value="Badukuva Dari "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film19"><property name="name" value="Bahaddur Gandu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film20"><property name="name" value="Baktha Kanakadasa "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film21"><property name="name" value="Kaurava "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film22"><property name="name" value="Milan "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film23"><property name="name" value="Kariya "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film24"><property name="name" value="Ravimama "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film25"><property name="name" value="Baala Panjara "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film26"><property name="name" value="Bhale Huccha "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film27"><property name="name" value="Bhale Keshava "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film28"><property name="name" value="Baalu Jenu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film29"><property name="name" value="Baaluve Ninagagi "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film30"><property name="name" value="Bandha mukta "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film31"><property name="name" value="Bandhana "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film32"><property name="name" value="Appu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film33"><property name="name" value="Bangarada Hoovu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film34"><property name="name" value="Bangarada Kalla "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film35"><property name="name" value="Bangari (2013 film) "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film36"><property name="name" value="Bhaktha Jnanadeva "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film37"><property name="name" value="Bhairava "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film38"><property name="name" value="Bhagyajyothi "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film39"><property name="name" value="Bhagyachakra "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film40"><property name="name" value="Bethale Seve "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film41"><property name="name" value="Betegaara "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film42"><property name="name" value="Besuge "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film43"><property name="name" value="Benkiya Bale "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film44"><property name="name" value="Benki"></property></bean>
+<bean class="com.xworkz.beans.Film" name="film45"><property name="name" value="CID Rajanna "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film46"><property name="name" value="Chalagara "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film47"><property name="name" value="Chalisuva Modagalu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film48"><property name="name" value="Chanakya "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film49"><property name="name" value="Chinnari Mutta"></property></bean>
+<bean class="com.xworkz.beans.Film" name="film50"><property name="name" value="Chinnada Gombe "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film51"><property name="name" value="Chinna "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film52"><property name="name" value="Chennappa Channegowda "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film53"><property name="name" value="Cheluva "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film54"><property name="name" value="Chaya "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film55"><property name="name" value="Chappale "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film56"><property name="name" value="Chingari (2012) "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film57"><property name="name" value="Chinthamani "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film58"><property name="name" value="Chithralekha "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film59"><property name="name" value="Chora Chita Chora "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film60"><property name="name" value="Churi Chikkanna "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film61"><property name="name" value="Edakallu Guddada Mele "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film62"><property name="name" value="Edurumane Meena "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film63"><property name="name" value="Ee Preethi Eke Bhumi Melide "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film64"><property name="name" value="Ee Jeeva Ninagagi "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film65"><property name="name" value="Ekalavya "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film66"><property name="name" value="Ella Hengasarinda"></property></bean>
+<bean class="com.xworkz.beans.Film" name="film67"><property name="name" value="Ellaranthalla Nanna Ganda "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film68"><property name="name" value="Ellellu Naane "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film69"><property name="name" value="Elu Suttina Kote "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film70"><property name="name" value="Endu Ninnavane "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film71"><property name="name" value="Entede Banta "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film72"><property name="name" value="Eradu Hrudayagalu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film73"><property name="name" value="Eradu Mukha "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film74"><property name="name" value="Eshwar "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film75"><property name="name" value="Gaali gopura "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film76"><property name="name" value="Gaalipata "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film77"><property name="name" value="Ganda Berunda "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film78"><property name="name" value="Ganda Hendathi "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film79"><property name="name" value="Gandharva "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film80"><property name="name" value="Gandede Bhaira "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film81"><property name="name" value="Gandu Guligalu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film82"><property name="name" value="Gandugali "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film83"><property name="name" value="Ganesha Mahime "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film84"><property name="name" value="Gange Gowri "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film85"><property name="name" value="Garuda Dhwaja "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film86"><property name="name" value="Mussanje Maathu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film87"><property name="name" value="Malaya Marutha "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film88"><property name="name" value="Mane Mane Kathe "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film89"><property name="name" value="Mareyada Haadu "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film90"><property name="name" value="Masti "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film91"><property name="name" value="Mata "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film92"><property name="name" value="Mungaru Male "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film93"><property name="name" value="Minchina Ota "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film94"><property name="name" value="Muthina Haara"></property></bean>
+<bean class="com.xworkz.beans.Film" name="film95"><property name="name" value="My Autograph "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film96"><property name="name" value="Masth Maja Madi"></property></bean>
+<bean class="com.xworkz.beans.Film" name="film97"><property name="name" value="Nodi Swamy Navirodu Hige "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film98"><property name="name" value="Nenapirali "></property></bean>
+<bean class="com.xworkz.beans.Film" name="film99"><property name="name" value="Naduve Antaravirali"></property></bean>
+<bean class="com.xworkz.beans.Film" name="film100"><property name="name" value="Onde Guri "></property></bean>
+
+
+
+
+
+</beans>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
