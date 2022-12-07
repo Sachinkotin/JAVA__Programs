@@ -1,0 +1,25 @@
+package com.xworkz.abstractionInSpring.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+
+import com.xworkz.abstractionInSpring.beans.TeaShopDto;
+import com.xworkz.abstractionInSpring.repository.TeaShopRepo;
+@Component
+public class TeaShopServiceImpl implements TeaShopService {
+
+	
+	@Autowired
+	@Qualifier("teaShopRepo")
+	TeaShopRepo repo;
+	
+	@Override
+	public boolean validateAndSave(TeaShopDto dto) {
+
+		System.out.println("Inside save method of TeaShopServiceImpl ");
+		this.repo.save(dto);
+		return true;
+	}
+
+}
